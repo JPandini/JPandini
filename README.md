@@ -12,7 +12,7 @@ Entusiasta por técnologia.
   <img align="center" alt="Pandini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pandini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pandini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandini-CPP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+  <img align="center" alt="Pandini-INO" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg">
   <img align="center" alt="Pandini-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
