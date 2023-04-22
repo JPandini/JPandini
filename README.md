@@ -1,4 +1,4 @@
-## Olá me chamo João Vítor Pandini 👋
+## Olá, me chamo João Vítor Pandini 👋
 
 Entusiasta por técnologia.
 
