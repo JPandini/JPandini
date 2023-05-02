@@ -21,9 +21,9 @@ Entusiasta por técnologia.
 <p><h1>Status: </h1>
 <div align="center">
   <a href="https://github.com/JPandini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JPandini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JPandini&theme=tokyonight&show_icons=true" />
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPandini&layout=compact&langs_count=6&theme=tokyonight "/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPandini&layout=compact&theme=tokyonight"/>
 </div>
 <br>
 
