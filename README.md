@@ -3,7 +3,7 @@
 Entusiasta por técnologia.
 
 - 🔭 Estou cursando Técnico em informática (3/4)
-- 🌱 Estudando React Native
+- 🌱 Estudando React e React Native
 - ♓ Tenho 17 anos
 
 <div style="display: inline_block"><br>
