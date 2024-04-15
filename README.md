@@ -4,7 +4,6 @@ Entusiasta por tecnologia.
 
 - 🔭 Técnico em informática
 - 🌱 Estudando React e NodeJs
-- ♓ Tenho 17 anos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pandini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
